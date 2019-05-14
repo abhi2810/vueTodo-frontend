@@ -1,4 +1,4 @@
-# weather-frontend
+# vue-todo
 
 ## Project setup
 ```
